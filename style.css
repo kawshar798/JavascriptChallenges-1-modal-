@@ -63,7 +63,7 @@ img {
   background: #fff;
   padding: 15px 20px;
   border-radius: 5px;
-  background: url("/cat.jpg");
+  background: url("https://images.unsplash.com/photo-1518288774672-b94e808873ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=378&q=80");
 
   background-size: cover;
   background-position: center top;
